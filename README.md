@@ -1,0 +1,1 @@
+# alexa-skill-simple-24
